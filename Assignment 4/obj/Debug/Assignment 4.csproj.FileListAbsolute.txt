@@ -1,0 +1,22 @@
+C:\Users\patri\source\repos\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe.config
+C:\Users\patri\source\repos\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe
+C:\Users\patri\source\repos\Assignment 4\Assignment 4\bin\Debug\Assignment 4.pdb
+C:\Users\patri\source\repos\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\Assignment 4\Assignment 4\obj\Debug\Assignment_4.MainForm.resources
+C:\Users\patri\source\repos\Assignment 4\Assignment 4\obj\Debug\Assignment_4.Properties.Resources.resources
+C:\Users\patri\source\repos\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\Assignment 4\Assignment 4\obj\Debug\Assignment 4.exe
+C:\Users\patri\source\repos\Assignment 4\Assignment 4\obj\Debug\Assignment 4.pdb
+C:\Users\patri\source\repos\Assignment 4\Assignment 4\obj\Debug\Assignment_4.FormIngredients.resources
+D:\c#\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe.config
+D:\c#\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe
+D:\c#\Assignment 4\Assignment 4\bin\Debug\Assignment 4.pdb
+D:\c#\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csprojAssemblyReference.cache
+D:\c#\Assignment 4\Assignment 4\obj\Debug\Assignment_4.FormIngredients.resources
+D:\c#\Assignment 4\Assignment 4\obj\Debug\Assignment_4.MainForm.resources
+D:\c#\Assignment 4\Assignment 4\obj\Debug\Assignment_4.Properties.Resources.resources
+D:\c#\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.GenerateResource.cache
+D:\c#\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.CoreCompileInputs.cache
+D:\c#\Assignment 4\Assignment 4\obj\Debug\Assignment 4.exe
+D:\c#\Assignment 4\Assignment 4\obj\Debug\Assignment 4.pdb
